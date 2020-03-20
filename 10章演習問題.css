@@ -59,16 +59,25 @@
 @media screen and (max-width:768px){
 	.main-container{
 		width:100%;
+		margin:50px auto;
+		display:inline-block;
+		text-align:center;
 	}
 	.box1{
 		width:90%;
+		margin:0 auto;
 		margin-bottom:20px;
+		text-align:left;
 	}
 	.box2{
 		width:90%;
+		margin:0 auto;
 		margin-bottom:20px;
+		text-align:left;
 	}
 	.box3{
 		width:90%;
+		margin:0 auto;
+		text-align:left;
 	}
 }
