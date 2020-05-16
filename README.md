@@ -35,10 +35,20 @@
 
 ### 主な利用シーン
 
-<...>
+* 生徒向け
+
+  *日々の学習管理に。
+  *テスト結果の記録用に。
+  *テスト範囲の確認用に。
+
+* 保護者向け
+
+  *お子様の成績把握用に。
+  *進路決定の判断材料に。
+  *お子様の頑張りの確認用に。
 
 ## 設計書
 
 ### 機能一覧
 
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+https://docs.google.com/spreadsheets/d/1-TOjtd5JVbBvQ08Y7f7gj93OUVgcrbPV2VLkXLsE7_U/edit#gid=0
